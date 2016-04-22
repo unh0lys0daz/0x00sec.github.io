@@ -59,7 +59,7 @@ for i in 0..(strlen - 2) # vvv
 end
  
 puts str.join('') #print out the result, but first make it a string and not an array
-{% end highlight %}
+{% endhighlight %}
 
 The first eight lines are just about taking input from the user. If you need this explained, PM me.
 
@@ -127,7 +127,7 @@ int main() {
     cout << str << endl;
     return 0;
 }
-{% end highlight %}
+{% endhighlight %}
 
 Okay, one big different is that I've made a special bubblesort(...) function instead of writing it all inline. This is because I wanted to isolate the actual sorting from main().
 
