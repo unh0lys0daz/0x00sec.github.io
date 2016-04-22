@@ -3,7 +3,7 @@ An infosec/computer science community built <i>by</i> whitehats <i>for</i> white
 
 ## Why?
 
-Originally, we all contributed at <a href="http://nullbyte.wonderhowto.com/">Null Byte</a>. However, upon OTW's departure
+Originally, we all contributed at <a href="http://null-byte.wonderhowto.com/">Null Byte</a>. However, upon OTW's departure
 from the community
 we decided that we needed our own place. The people of Null Byte needed a place uncontrolled by WonderHowTo.
 

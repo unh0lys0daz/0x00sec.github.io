@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+0x00sec was created as an unaffiliated branch from [Null Byte](http://null-byte.wonderhowto.com/) by oaktree347, pry0cc, unh0lys0da, and a few others.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Articles posted relate to information security and/or computer science. We aim to create a place _by_ whitehats _for_ whitehats, where articles can be submitted by anyone. Articles are screened before posting to avoid useless posts (a major flaw of Null Byte).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+We are currently reachable on freenode at #nullbyte. In fact, 0x00sec was first conceived there.
