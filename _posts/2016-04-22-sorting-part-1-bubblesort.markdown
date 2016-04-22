@@ -6,6 +6,7 @@ categories: who nullbyte
 tags:
  - sorting
  - bubble sort
+post_author: oaktree
 ---
 
 Alright, 0x00 community! Here we go... Bubble Sort.
