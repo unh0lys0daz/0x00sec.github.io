@@ -2,7 +2,7 @@
 layout: post
 title:  "Sorting (Part 1.0): Bubble Sort"
 date:   2016-04-22 01:08:11 +0100
-categories: who nullbyte
+categories: bubblesort sorting
 ---
 
 Alright, 0x00 community! Here we go... Bubble Sort.
