@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sorting (Part 2.0)&#58 Time Complexity"
+title:  "Sorting (Part 2.0) Time Complexity"
 date:   2016-04-23 23:16:11 +0100
 categories: who nullbyte
 tags:

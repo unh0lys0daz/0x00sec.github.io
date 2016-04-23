@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sorting (Part 1.0)&#58Bubble Sort"
+title:  "Sorting (Part 1.0) Bubble Sort"
 date:   2016-04-22 01:08:11 +0100
 categories: who nullbyte
 tags:
