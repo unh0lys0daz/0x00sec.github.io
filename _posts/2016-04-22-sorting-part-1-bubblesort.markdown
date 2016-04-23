@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Sorting (Part 1.0) Bubble Sort"
-date:   2016-04-22 01:08:11 +0100
+date:   2016-04-22 02:08:11 +0100
 categories: who nullbyte
 tags:
  - sorting
  - bubble sort
-post_author: oaktree
+author: oaktree
 ---
 
 Alright, 0x00 community! Here we go... Bubble Sort.

@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Sorting (Part 2.0) Time Complexity"
-date:   2016-04-23 23:16:11 +0100
+date:   2016-04-22 23:16:11 +0100
 categories: who nullbyte
 tags:
  - sorting
  - bubble sort
  - time complexity
  - algorithms
-post_author: oaktree
+author: oaktree
 ---
 Welcome back, 0x00sec community, to my series on sorting.
 
