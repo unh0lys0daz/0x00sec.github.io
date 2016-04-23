@@ -14,7 +14,7 @@ Suh dudes.
 
 ## Some random Keylogger code here in C++
 
-{% highlight c++ lineos %}
+{% highlight c++ linenos %}
 #include <string.h>
 #include <Windows.h>
 #include <WinInet.h>
