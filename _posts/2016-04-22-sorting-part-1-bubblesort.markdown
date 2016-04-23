@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sorting (Part 1.0): Bubble Sort"
+title:  "Sorting (Part 1.0)&#58Bubble Sort"
 date:   2016-04-22 01:08:11 +0100
 categories: who nullbyte
 tags:
@@ -29,7 +29,7 @@ Let's Implement the Algorithm...
 
 First Up: Ruby, because it's easier.
 
-{% highlight ruby %}
+{% highlight ruby linenos %}
 #! /usr/bin/env ruby
  
 # get input
@@ -81,7 +81,7 @@ Then, we print out the result. Tada!
 
 ## C++
 
-{% highlight c++ %}
+{% highlight c++ linenos %}
 #include <iostream>
 #include <string>
 #include <vector>
